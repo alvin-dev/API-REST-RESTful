@@ -1,6 +1,40 @@
 # API, REST e RESTFUL
 
-##  Tecnologias
+## :octocat: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- Express
+
+## :coffee: Instalar 
+
+Clone o repositório para sua máquina.
+
+```
+git@github.com:alvin-dev/API-REST-RESTful.git
+```
+
+No diretório raíz do projeto, use seu gerenciador de pacotes para instalar todas as dependências necessárias.
+
+[YARN](https://yarnpkg.com/)
+```
+yarn
+```
+
+[NPM](https://www.npmjs.com/) 
+```
+npm install
+```
+
+Rodar o servidor.
+
+```
+node server.js
+```
 
 ## API
 
